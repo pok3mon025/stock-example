@@ -17,7 +17,7 @@ public class Stock {
     private Long quantity;
 
     public Stock() {}
-    
+
     public Stock(Long productId, Long quantity) {
         this.productId = productId;
         this.quantity = quantity;
